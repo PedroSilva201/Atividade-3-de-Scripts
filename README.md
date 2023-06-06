@@ -4,16 +4,16 @@ Para este exercicio utilizou o styled components que é uma variante do React ty
 
 ### Instruções de uso
 
-Baixar o projeto na pasta `front` do seu computador:
+Baixar o projeto na pasta `front` ou a de qualuqer nome em seu computador:
 ```
-git clone 
+git clone: https://github.com/PedroSilva201/Atividade-3-de-Scripts
 ```
 Instalar as dependências:
 ```
-cd front
+cd front (ou o nome da pesta que as escolheu)
 npm i
 ```
-A aplicação estará na porta 3000. Comando para subir a aplicação:
+A aplicação estará na porta 3000. Comando para subir a aplicação, exceto se utilizar o .env que poderá rodar em qualquer porta de forma livre a sua escolha:
 ```
 npm start
 ```
