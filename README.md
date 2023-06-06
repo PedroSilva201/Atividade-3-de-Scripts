@@ -1,20 +1,19 @@
-## React TS - Services
+## Atividade 3 de programação de scripts 
 
-Neste exemplo, faz se a conexão com o serviço da ViaCEP.
-Faz-se uso do pacote [axios](https://www.npmjs.com/package/axios) para efetuar as requisições HTTP.
+Para este exercicio utilizou o styled components que é uma variante do React typescript para substituir o html e o css no código de front-end.
 
 ### Instruções de uso
 
 Baixar o projeto na pasta `front` do seu computador:
 ```
-git clone https://github.com/arleysouza/react-service.git front
+git clone 
 ```
 Instalar as dependências:
 ```
 cd front
 npm i
 ```
-A aplicação estará na porta 3100. Comando para subir a aplicação:
+A aplicação estará na porta 3000. Comando para subir a aplicação:
 ```
 npm start
 ```
