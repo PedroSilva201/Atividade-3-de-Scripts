@@ -17,7 +17,7 @@ A aplicação estará na porta 3000. Comando para subir a aplicação, exceto se
 ```
 npm start
 ```
-### SItuação Problema do Certame
+### Situação Problema do Certame
 Nesta atividade o professor Arley apresentou a ideia de poder modificar elementos usando o Styled Components para aprimorar tecnicas usando a linguagem Typescript, neste caso usou a API para ter acesso aos resultados das loterias e de alguns jogos como exemplo para que seja usado os dados deste link para serem exibidos na tela, seguindo os requisitos desta atividade.
 
 ### Resultado
